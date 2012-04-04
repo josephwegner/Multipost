@@ -1,5 +1,5 @@
 //Create necessary globals
-var multipost = require("../lib/multipost.js");
+var multipost = require("../");
 
 var postFields = [
         {
