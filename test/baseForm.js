@@ -1,5 +1,5 @@
 //Create necessary globals
-var multipost = require("../");
+var multipost = require("multipost");
 
 var postFields = [
         {

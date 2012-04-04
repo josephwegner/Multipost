@@ -1,0 +1,20 @@
+{ "name" : "multipost"
+, "version" : "0.0.1"
+, "description" : "An easy interface for sending data via the multipart/form-data protocol"
+, "keyword" : ["upload", "file", "multipart", "multipost", "http"]
+, "homepage" : "https://github.com/josephwegner/Multipost"
+, "main" : "./"
+, "maintainers" :
+  [
+     { "name": "Joe Wegner"
+     , "email": "joe@wegnerdesign.com"
+     }
+  ]
+, "bugs" : { "url" : "https://github.com/josephwegner/Multipost/issues" }
+, "licenses" : [ { "type" : "GPL" } ]
+, "repositories" :
+  [ { "type" : "git"
+    , "url" : "https://github.com/josephwegner/Multipost"
+    }
+  ]
+}
