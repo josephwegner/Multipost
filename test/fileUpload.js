@@ -1,5 +1,5 @@
 //Create necessary globals
-var multipost = require("../");
+var multipost = require("multipost");
 var fs = require('fs');
 
 //Create a read stream for piping the file
