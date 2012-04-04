@@ -43,3 +43,11 @@ req.post(function(res) {
 License
 -------
 This module is released under the [GPL](http://www.gnu.org/copyleft/gpl.html).
+
+Contributors
+------------  
+[Joe Wegner](https://twitter.com/Joe_Wegner) via [DownJS](http://www.downjs.com)  
+
+Thanks
+------
+Huge thanks to [onteria_](http://www.twitter.com/onteria_) for the wonderful information found in [this post](http://onteria.wordpress.com/2011/05/30/multipartform-data-uploads-using-node-js-and-http-request/).
