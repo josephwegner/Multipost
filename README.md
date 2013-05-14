@@ -46,7 +46,7 @@ This module is released under the [GPL](http://www.gnu.org/copyleft/gpl.html).
 
 Contributors
 ------------  
-[Joe Wegner](https://twitter.com/Joe_Wegner) via [DownJS](http://www.downjs.com)  
+[Joe Wegner](https://twitter.com/Joe_Wegner) via [WegnerDesign](http://www.wegnerdesign.com)  
 
 Thanks
 ------
