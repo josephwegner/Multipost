@@ -1,5 +1,5 @@
 { "name" : "multipost"
-, "version" : "0.0.1"
+, "version" : "0.0.2"
 , "description" : "An easy interface for sending data via the multipart/form-data protocol"
 , "keyword" : ["upload", "file", "multipart", "multipost", "http"]
 , "homepage" : "https://github.com/josephwegner/Multipost"
